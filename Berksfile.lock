@@ -1,0 +1,8 @@
+DEPENDENCIES
+  main
+    path: site-cookbooks/main
+
+GRAPH
+  main (0.1.0)
+    yum (~> 3.11.0)
+  yum (3.11.0)
